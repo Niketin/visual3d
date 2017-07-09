@@ -1,0 +1,27 @@
+# Eclipse
+/.metadata
+TowerDefence/.cache-main
+.cache
+.metadata
+bin/
+tmp/
+*.tmp
+*.bak
+*.swp
+*~.nib
+local.properties
+.settings/
+.loadpath
+.recommenders
+.classpath
+
+# Intellij IDEA
+*.iml
+*.ipr
+*.iws
+.idea
+out
+
+# SCALA
+target
+*.class

@@ -1,2 +1,6 @@
 # visual3d
-school project
+A school project.
+
+Run as any SBT project.
+
+There is also precompiled JAR-file in the root directory.
