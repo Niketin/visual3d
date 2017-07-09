@@ -1,5 +1,5 @@
 # visual3d
-A school project.
+Just a school project. It visualize 3D-models that are in .stl (binary, no ASCII) format.
 
 Run as any SBT project.
 
